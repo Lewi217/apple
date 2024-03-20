@@ -1,0 +1,18 @@
+body{
+    background-color: darkmagenta;
+   font-size: 30px;
+}
+
+h1{
+    font-size: 45px;
+    text-align: center;
+}
+
+p{
+    color: coral;
+}
+.example img{
+    border-radius: 50%;
+    width: 25%;
+    height: auto
+}
